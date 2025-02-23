@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/4643a660-611c-420d-98f4-c5cba9844d7c)
+
 # Tippsy – The Future of Social Dating  
 
 Welcome to **Tippsy**, the innovative dating app that connects singles through curated bar meetups. We make meeting in real life easier by matching users based on location and recommending the perfect bar between them.  
